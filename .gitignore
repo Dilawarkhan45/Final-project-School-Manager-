@@ -1,0 +1,5 @@
+.env
+school.json
+school.log
+__pycache__/
+.pytest_cache/
